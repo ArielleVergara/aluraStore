@@ -1,4 +1,4 @@
-# aluraStore
+# Alura Store
 Proyecto para el curso de Practicando Python para Data Science
 
 ## 🧠 Propósito del análisis
